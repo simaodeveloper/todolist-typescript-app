@@ -1,0 +1,25 @@
+{
+  "name": "todolist-typescript-app",
+  "version": "0.0.1",
+  "description": "A TodoList made with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simaodeveloper/todolist-typescript-app.git"
+  },
+  "keywords": [
+    "todolist",
+    "typescript",
+    "javascript",
+    "spa"
+  ],
+  "author": "Daniel Simão da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simaodeveloper/todolist-typescript-app/issues"
+  },
+  "homepage": "https://github.com/simaodeveloper/todolist-typescript-app#readme"
+}
